@@ -21,17 +21,18 @@
 .recipes__video-caption {
     display: flex;
     justify-content: space-between;
-    font-family: "Inter";
+    font-family: inter, arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
     color: #fff;
+    margin: 24px 0 0;
 }
 
 .recipes__title {
     max-width: 580px;
-    font-family: "Inter";
+    font-family: inter, arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
@@ -41,9 +42,9 @@
 }
 
 .recipes__subtitle {
-    margin-top: 24px;
+    margin: 24px 0 0;
     max-width: 438px;
-    font-family: "Noto Serif";
+    font-family: noto serif, arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;

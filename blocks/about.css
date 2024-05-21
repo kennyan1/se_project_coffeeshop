@@ -10,15 +10,16 @@
 }
 
 .about__title {
-    margin: -19px auto 0 0;
+    margin: 0px auto 0 0;
     max-width: 251px;
     position: relative;
     z-index: 1;
-    font-family: "Inter";
+    font-family: inter, arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
     line-height: 52px;
+    bottom: 19px;
 }
 
 .about__content {
@@ -34,7 +35,7 @@
 
 .about__paragraph {
     margin: 0;
-    font-family: "Noto Serif";
+    font-family: noto-serif, arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -52,13 +53,6 @@
     }
 
 .about__circle_animation_blurred {
-    background-color: #2f80ed;
-    width: 426px;
-    height: 426px;
-    border-radius: 50%;
-    position: absolute;
-    top: -152px;
-    left: -129px;
     animation: pulsate 1.3s ease-in-out infinite;
 }
 

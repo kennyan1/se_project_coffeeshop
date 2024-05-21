@@ -5,7 +5,7 @@
 .menu__title {
    text-align: center; 
    margin: 0 0 24px;
-   font-family: "Inter";
+   font-family: inter, arial, sans-serif;
    font-style: normal;
    font-weight: 500;
    font-size: 44px;
@@ -15,7 +15,7 @@
 .menu__subtitle {
     text-align: center;
     margin: 0 0 100px;
-    font-family: "Noto Serif";
+    font-family: noto serif, arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -47,7 +47,7 @@
 
 .card__list-item {
     display: flex;
-    font-family: "Noto Serif";
+    font-family: noto serif, arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -61,7 +61,7 @@
 
 .card__title {
     margin: 0 0 32px;
-    font-family: "Inter";
+    font-family: inter, arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
