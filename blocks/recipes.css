@@ -1,7 +1,7 @@
 .recipes {
     padding:100px 80px 215px;
     background-color: #0a2750;
-    background-image: url(/images/background_recipes.svg);
+    background-image: url(../images/background_recipes.svg);
     
 }
 
@@ -37,6 +37,7 @@
     font-size: 44px;
     line-height: 52px;
     color:#fff;
+    margin: 0;
 }
 
 .recipes__subtitle {

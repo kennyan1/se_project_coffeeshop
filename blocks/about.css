@@ -8,6 +8,7 @@
     background-color: #0a2850;
     color: #fff;
 }
+
 .about__title {
     margin: -19px auto 0 0;
     max-width: 251px;
@@ -29,7 +30,6 @@
     gap: 20px;
     position: relative;
     z-index: 1;
-    
 }
 
 .about__paragraph {
@@ -49,8 +49,7 @@
     position: absolute;
     top: -152px;
     left: -129px;
-    
-}
+    }
 
 .about__circle_animation_blurred {
     background-color: #2f80ed;
@@ -66,13 +65,11 @@
 @keyframes pulsate {
     0% {
         opacity: 0;
-        
-    }
+        }
 
     50% { 
         opacity: 0.6;
-        
-    }
+         }
 
     100% {
         opacity: 0;
