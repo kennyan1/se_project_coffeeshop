@@ -15,7 +15,7 @@
   width: 105px;
   height: 39px;
   margin: 0;
-  right: 30px;
+  left: -50px;
 }
 
 .nav__links {
@@ -36,5 +36,5 @@
 
 .nav__link:hover {
   color: #2f80ed;
-  transition: smooth 1s;
+  transition: all 1s ease;
 }
