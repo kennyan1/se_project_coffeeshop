@@ -14,7 +14,7 @@
   max-width: 251px;
   position: relative;
   z-index: 1;
-  font-family: "Inter", Arial, "Sans-Serif";
+  font-family: "Inter", Arial, Sans-Serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -34,7 +34,7 @@
 
 .about__paragraph {
   margin: 0;
-  font-family: "Noto Serif", Arial, "Inter";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
